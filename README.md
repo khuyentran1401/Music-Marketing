@@ -1,4 +1,6 @@
+
 # Music Markets 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khuyentran1401/Music-Marketing/b4b3c0eb37a2f1e9bc129d7aa2c1a4892f657f3f?filepath=music_marketing%2Ftargeting.ipynb)
 
 In this repo we scrape Everynoise.com to put together a map of music genre markets based on spotify listener data. Using this information along with some short instagram data collectors we can build music marketing campaigns that target cities where the specific genres we're interested in are most popular. 
 
